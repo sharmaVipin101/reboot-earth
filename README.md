@@ -1,4 +1,4 @@
-# reebot-earth
+# reboot-earth
 developed for hackathon 
 In this app firstly we have to make our account.
  It can be done by filling information and then click on signup button.
